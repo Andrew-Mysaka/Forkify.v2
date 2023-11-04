@@ -1,5 +1,4 @@
 import View from './View.js';
-import icons from 'url:../../img/icons.svg';
 import previewView from './previewView'; // Parcel 2
 
 class ResultsView extends View{
